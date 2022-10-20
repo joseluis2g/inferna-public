@@ -1,0 +1,10 @@
+[
+	{
+		"title": "Muchas Gracias",
+		"richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://raw.githubusercontent.com/joseluis2g/inferna-public/main/images/book.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Muchas gracias por preferir Inferna Global, el equipo trabaja para entregar el mejor servicio posible a los jugadores.</p></td></tr></tbody></table>"
+	},
+	{
+		"title": "Gracias Totales",
+		"richText": "<table><tbody><tr><td><p style=\"margin-right: 5px;\"><img src=\"https://raw.githubusercontent.com/joseluis2g/inferna-public/main/images/book.png\" width=\"80\" height=\"80\" /></p></td><td><p><br />Agradecemos a todos nuestros miembros por la preferencia, muchas gracias por el apoyo.</p></td></tr></tbody></table>"
+	}
+]
