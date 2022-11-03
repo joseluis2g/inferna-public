@@ -3,13 +3,13 @@
 		{
 			"colordark": "#0D7356",
 			"colorlight": "#0D7356",
-			"description": "Toda la semana habra doble loot por el inicio del servidor, muchas gracias a todos.",
+			"description": "Double Loot Month - Mes de doble loot",
 			"displaypriority": 6,
-			"enddate": 1660492800,
+			"enddate": 1669863600,
 			"isseasonal": false,
 			"name": "Doble Loot",
 			"specialevent": 0,
-			"startdate": 1659974400
+			"startdate": 1667271600
 		}
 	]
 }
